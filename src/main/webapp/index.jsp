@@ -25,5 +25,8 @@
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
    Changing Again to cross check and successfully deploed in tomcat
 </h1>
+<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+   Changing Again to cross check and successfully deploed in tomcat
+</h1>
 </body>
 </html>

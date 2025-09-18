@@ -25,17 +25,12 @@
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
    Making Code Changes on July 7th at 10:53 PM IST
 </h1>
-<h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
-   Changing Again to cross check
-</h1>
-<h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
-   Changing Again to cross check and successfully deploed in tomcat
-</h1>
+
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
    Changing Again to cross check and successfully deploed in tomcat again
 
-<h1 style="font-weight: bold; color: yellow; font-size: 30px; text-align: center;">
-   Changing Again to cross check and successfully deploed in tomcat again
+<h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
+   Changing Again to see new verison in nexus if it stores the artifacts 
 </h1>
 </h1>
 </body>

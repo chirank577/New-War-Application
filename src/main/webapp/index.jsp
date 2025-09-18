@@ -10,6 +10,9 @@
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
    Making Code Changes on July 7th at 10:53 PM IST
 </h1>
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+   Making Code Changes on July 7th at 10:53 PM IST
+</h1>
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
    Changing Again to cross check
 </h1>
